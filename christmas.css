@@ -1,0 +1,42 @@
+h1 {
+  margin: 1em auto;
+  text-align: center;
+}
+
+body {
+  background-color: #2EA0FF;
+}
+
+h1 {
+  color: white;
+  font-size: 3em;
+}
+
+button {
+  background-color: steelblue;
+  border: none;
+  height: 2.5em;
+  font-size: 1em;
+  border-radius: .5em;
+  color: white;
+  width: 10em;
+}
+
+button:hover {
+  color: steelblue;
+  background-color: white;
+}
+
+table {
+  background-color: #4EC0FF;
+  color: #282828;
+  font-size: 1.25em;
+  margin: 3em auto;
+  border-collapse: separate;
+  border-spacing: 1.5em 0.75em;
+}
+
+#buttoncon {
+  margin: 1em auto;
+  text-align: center;
+}
